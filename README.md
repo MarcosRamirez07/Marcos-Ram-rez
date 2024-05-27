@@ -4,11 +4,11 @@ Apasionado analista de datos y estudiante de Ingeniería en Ciencia de Datos. Ac
 
 ### 🧑‍💻 Habilidades Técnicas
 
-- **Lenguajes**: Python, R, SQL
-- **Librerías**: Pandas, NumPy, tidyverse
-- **Visualización**: Matplotlib, Seaborn, ggplot2
-- **Machine Learning**: scikit-learn, TensorFlow, Keras
-- **Bases de Datos**: MySQL, PostgreSQL
+- **Lenguajes**: Python, SQL
+- **Librerías**: Pandas, NumPy
+- **Visualización**: Matplotlib, Seaborn
+- **Machine Learning**: scikit-learn, TensorFlow
+- **Bases de Datos**: MySQL, SQL server
 
 ### 📚 Educación
 
